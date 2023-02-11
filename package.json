@@ -1,0 +1,31 @@
+{
+  "name": "ts_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okamotoshun/ts_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okamotoshun/ts_practice/issues"
+  },
+  "homepage": "https://github.com/okamotoshun/ts_practice#readme",
+  "devDependencies": {
+    // TS構文をJS構文に変換するコンパイラ
+    "typescript": "^4.9.5",
+    // Webpackと連動してTSコンパイラを起動
+    "ts-loader": "^9.4.2",
+    // 複数ファイルを一つにまとめる
+    "webpack": "^5.75.0",
+    // CLIでwebpackを使う
+    "webpack-cli": "^5.0.1",
+    // Webpackのビルド、開発用サーバーの起動、ホットリロード
+    "webpack-dev-server": "^4.11.1"
+  }
+}
