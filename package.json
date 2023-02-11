@@ -18,10 +18,10 @@
   },
   "homepage": "https://github.com/okamotoshun/ts_practice#readme",
   "devDependencies": {
-    "typescript": "^4.9.5", // TS構文をJS構文に変換するコンパイラ
-    "ts-loader": "^9.4.2", // Webpackと連動してTSコンパイラを起動
-    "webpack": "^5.75.0", // 複数ファイルを一つにまとめる
-    "webpack-cli": "^5.0.1", // CLIでwebpackを使う
-    "webpack-dev-server": "^4.11.1" // Webpackのビルド、開発用サーバーの起動、ホットリロード
+    "typescript": "^4.9.5",
+    "ts-loader": "^9.4.2",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-server": "^4.11.1"
   }
 }
