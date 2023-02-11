@@ -1,6 +1,4 @@
 // webpackの設定ファイル(必須)
-// 細かい詳細
-// https://qiita.com/ryokkkke/items/390647a7c26933940470
 
 const path = require('path')
 module.exports = {
