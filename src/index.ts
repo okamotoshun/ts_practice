@@ -13,4 +13,6 @@ world.sayHello(root)
 
 // 関数の型定義
 import { logMessage } from './function/basic'
+import { isUserSignedIn } from "./function/paramerters";
 logMessage('Hello')
+isUserSignedIn('ABC')
