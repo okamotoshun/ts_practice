@@ -8,6 +8,8 @@ world.sayHello(root)
 import { primitiveSample } from './basic/index'
 import { notExistSample } from './basic/index'
 import { anySample } from './basic/index'
+import { unknownSample } from "./basic/index";
 primitiveSample()
 notExistSample()
 anySample()
+unknownSample()
