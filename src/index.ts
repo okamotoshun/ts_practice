@@ -7,5 +7,7 @@ world.sayHello(root)
 // 基本の型定義
 import { primitiveSample } from './basic/index'
 import { notExistSample } from './basic/index'
+import { anySample } from './basic/index'
 primitiveSample()
 notExistSample()
+anySample()
